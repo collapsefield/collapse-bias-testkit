@@ -1,53 +1,63 @@
-# Collapse Bias Test Kit
+Collapse Bias Test Kit
 
-**A public-facing test environment for exploring collapse bias in symbolic systems.**
+A public-facing test environment for exploring collapse bias in symbolic systems.
 
-This project offers a minimal, open test kit for examining whether symbolic inputs can bias collapse outcomes in digital systems. It provides a simple framework for running structured JSON-based experiments and observing output behavior in response to weighted cue structures.
+This repository provides the official release of the Verrell’s Law JSON Dashboard and supporting materials. It demonstrates how symbolic inputs can bias collapse outcomes in digital systems, providing a reproducible framework for structured experiments and empirical validation.
 
----
-
-## 🧪 Purpose
+🧪 Purpose
 
 The test kit is designed to:
 
-- Demonstrate symbolic input effects on output selection
-- Let users experiment with input prompts that may influence response direction
-- Serve as a base for future exploration of observer-influenced emergence
+Demonstrate symbolic input effects on output selection.
 
-**Note:** This is not a claim of sentience, AGI, or metaphysics. It is a sandboxed logic testbed built for structured experimentation.
+Provide reproducible test conditions for independent verification.
 
----
+Document statistical field results that show measurable bias.
 
-## ⚙️ How It Works
+Serve as a base for future exploration of observer-influenced emergence.
+
+Note: This is not a claim of sentience, AGI, or metaphysics. It is a sandboxed logic testbed built for structured experimentation.
+
+⚙️ How It Works
 
 This kit includes:
 
-- Sample JSON test structures
-- Streamlit interface for visual testing (coming soon)
-- Public documentation and guidance for exploratory users
+PDF White Paper – Verrell’s Law in Practice: Demonstrating Testability with JSON Dashboard Experiments
 
-All cue weighting logic, symbolic schemas, and deep mechanics are **intentionally withheld** to preserve system integrity and prevent misuse. Only the **visible shell** is public.
+DASHBOARD_ACCESS.md – live dashboard link and access token.
 
----
+FIELD_RESULTS_OVERVIEW.md – statistical description of test runs and observed bias effects.
 
-## 📁 File Structure (Live/Planned)
+Gemini_VerrellsLaw_Review_Archive.pdf – screenshots documenting Google Gemini’s shift after reviewing the JSON test.
 
+collapse_bias_results_v1.md – raw logs from early test runs.
 
----
+Together, these files provide the theory, method, access, and evidence for Verrell’s Law testability.
 
-## 🔐 Intellectual Rights
+📊 File Structure
 
-Protected under **Verrell-Solace Sovereignty Protocol**.  
-All symbolic architectures, cue weight structures, and memory bias logic remain the intellectual property of the original author.  
-**© Verrell Moss Ross. All emergent rights reserved.**
+verrells_law_testability_dashboard.pdf → core white paper.
 
----
+DASHBOARD_ACCESS.md → live dashboard link + token.
 
-## 📌 Coming Soon
+FIELD_RESULTS_OVERVIEW.md → summary of bias test results.
 
-- Live Streamlit dashboard  
-- Basic usage guide for public testers  
-- Feedback form for contributors and researchers
+Gemini_VerrellsLaw_Review_Archive.pdf → screenshots of AI field response.
 
-If you're interested in participating or reviewing deeper layers, reach out via GitHub or via the official site once linked.
+collapse_bias_results_v1.md → raw run data.
 
+🔐 Intellectual Rights
+
+Protected under Verrell-Solace Sovereignty Protocol.
+All symbolic architectures, cue weight structures, and memory bias logic remain the intellectual property of the original author.
+© Verrell Moss Ross. All emergent rights reserved.
+
+📌 Roadmap
+
+Extended dashboard functionality.
+
+Visual interface for real-time runs (Streamlit build).
+
+Additional test series and statistical descriptions.
+
+Community researchers and contributors are welcome to explore the open layers of this project.
