@@ -25,7 +25,7 @@ All runs were symbolic-only (no sentience or metaphysical claims).
 ---
 
 ## 📊 Charted Results
-![Symbol Bias Graph](link-to-your-chart.png)
+https://medium.com/@EMergentMR/verrells-law-from-speculative-to-testable-with-json-dashboard-experiments-5db46c0566e4
 
 > Figure 1. Symbol frequency outcomes across three test conditions.  
 > Test 02 shows a pronounced bias effect consistent with Verrell’s Law predictions of memory reinforcement.  
