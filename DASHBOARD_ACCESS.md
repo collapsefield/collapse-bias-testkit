@@ -12,5 +12,5 @@ This document provides access details for the live JSON Dashboard used in the ar
 ---
 
 ## 🔑 Access Token
-When prompted for an access token, enter:
+When prompted for an access token, enter:  collapsetest
 
