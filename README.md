@@ -1,63 +1,97 @@
-Collapse Bias Test Kit
+# Collapse Bias Test Kit — Historical Research Sandbox
 
-A public-facing test environment for exploring collapse bias in symbolic systems.
+**Status:** Historical/public experimental testbed  
+**Current CAAI engineering authority:** [collapse-aware-ai-public-proof-pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)  
+**Updated:** 7 August 2026
 
-This repository provides the official release of the Verrell’s Law JSON Dashboard and supporting materials. It demonstrates how symbolic inputs can bias collapse outcomes in digital systems, providing a reproducible framework for structured experiments and empirical validation.
+---
 
-🧪 Purpose
+## Current-status notice
 
-The test kit is designed to:
+This repository contains an earlier public-facing test environment for exploring symbolic selection-bias ideas associated with the development history of Verrell’s Law and Collapse Aware AI.
 
-Demonstrate symbolic input effects on output selection.
+It is **not** the current CAAI engineering runtime, not the current licensing package, and not independent proof of the present private implementation.
 
-Provide reproducible test conditions for independent verification.
+The present CAAI engineering system is substantially more advanced and is documented separately in the public proof pack.
 
-Document statistical field results that show measurable bias.
+The current engineering distinction is:
 
-Serve as a base for future exploration of observer-influenced emergence.
+> **Relevant retained prior state can influence which permitted behaviour is selected while the reference condition and resulting evidence remain inspectable.**
 
-Note: This is not a claim of sentience, AGI, or metaphysics. It is a sandboxed logic testbed built for structured experimentation.
+Current public CAAI references:
 
-⚙️ How It Works
+- [CAAI Public Proof Pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
+- [Current Engineering State — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-07.md)
+- [Managed Evaluation Evidence — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/MANAGED_EVALUATION_EVIDENCE_2026-08-07.md)
 
-This kit includes:
+---
 
-PDF White Paper – Verrell’s Law in Practice: Demonstrating Testability with JSON Dashboard Experiments
+## What this repository was built to explore
 
-DASHBOARD_ACCESS.md – live dashboard link and access token.
+The original test kit was intended to provide reproducible symbolic experiments around how declared input/state conditions could affect output selection.
 
-FIELD_RESULTS_OVERVIEW.md – statistical description of test runs and observed bias effects.
+It may contain:
 
-Gemini_VerrellsLaw_Review_Archive.pdf – screenshots documenting Google Gemini’s shift after reviewing the JSON test.
+- dashboard experiments;
+- symbolic input/output tests;
+- early bias terminology;
+- run logs;
+- statistical descriptions;
+- historical review screenshots;
+- experimental protocols.
 
-collapse_bias_results_v1.md – raw logs from early test runs.
+These are part of the project history. They should be interpreted under the evidence standard of the individual experiment rather than treated as proof of a universal field effect or of current CAAI production behaviour.
 
-Together, these files provide the theory, method, access, and evidence for Verrell’s Law testability.
+---
 
-📊 File Structure
+## Evidence boundary
 
-verrells_law_testability_dashboard.pdf → core white paper.
+This repository does **not** establish:
 
-DASHBOARD_ACCESS.md → live dashboard link + token.
+- machine consciousness;
+- observer-controlled physics;
+- electromagnetic memory;
+- a universal external memory field;
+- quantum implementation of CAAI;
+- independent validation of Verrell’s Law as a general scientific law;
+- production performance of the current CAAI system.
 
-FIELD_RESULTS_OVERVIEW.md → summary of bias test results.
+A software test deliberately built to apply a retained-state or symbolic weighting rule is primarily an engineering conformance test unless the relevant causal variable is measured independently under a preregistered empirical design.
 
-Gemini_VerrellsLaw_Review_Archive.pdf → screenshots of AI field response.
+For the current Verrell’s Law falsification framework, use:
 
-collapse_bias_results_v1.md → raw run data.
+[collapsefield/collapsefield-verrells-law](https://github.com/collapsefield/collapsefield-verrells-law)
 
-🔐 Intellectual Rights
+---
 
-Protected under Verrell-Solace Sovereignty Protocol.
-All symbolic architectures, cue weight structures, and memory bias logic remain the intellectual property of the original author.
-© Verrell Moss Ross. All emergent rights reserved.
+## Current CAAI position
 
-📌 Roadmap
+The current private CAAI line now includes, under controlled local managed evaluation:
 
-Extended dashboard functionality.
+- retained-state lifecycle management;
+- continuity memory and anchors;
+- deterministic session boot;
+- explicit memory-use evidence;
+- bounded ambiguity and corrective recall;
+- live selection through the real frozen Core Gold/Crown selector;
+- durable private and customer-safe Decision Records;
+- replay, restart, duplicate protection and reconciliation;
+- customer-safe evidence export.
 
-Visual interface for real-time runs (Streamlit build).
+This repository remains online because the older experiments are useful provenance, but they are no longer the best representation of what CAAI is or how it should be evaluated commercially.
 
-Additional test series and statistical descriptions.
+---
 
-Community researchers and contributors are welcome to explore the open layers of this project.
+## Commercial boundary
+
+CAAI is proprietary middleware developed by Inappropriate Media Limited, trading as Collapse Aware AI.
+
+This historical test kit is not an open-source release of the current Crown runtime, Phase-2 stack or managed-evaluation package.
+
+For paid evaluations, pilots or licensing:
+
+**collapseawareai@gmail.com**
+
+---
+
+© 2025–2026 Inappropriate Media Limited. Historical experimental materials remain subject to their original notices; proprietary implementation and commercial rights remain reserved.
