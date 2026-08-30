@@ -2,7 +2,8 @@
 
 **Status:** Historical/public experimental testbed  
 **Current CAAI engineering authority:** [collapse-aware-ai-public-proof-pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)  
-**Updated:** 7 August 2026
+**Current Verrell’s Law / retained-state benchmark:** [collapsefield-verrells-law](https://github.com/collapsefield/collapsefield-verrells-law)  
+**Updated:** 30 August 2026
 
 ---
 
@@ -14,15 +15,20 @@ It is **not** the current CAAI engineering runtime, not the current licensing pa
 
 The present CAAI engineering system is substantially more advanced and is documented separately in the public proof pack.
 
-The current engineering distinction is:
+Current category-level language:
+
+> **Retained-State Selection is the controlled study or process by which information preserved from prior states is permitted to influence selection among presently available candidate outcomes.**
+
+Current CAAI engineering distinction:
 
 > **Relevant retained prior state can influence which permitted behaviour is selected while the reference condition and resulting evidence remain inspectable.**
 
 Current public CAAI references:
 
 - [CAAI Public Proof Pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
-- [Current Engineering State — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-07.md)
-- [Managed Evaluation Evidence — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/MANAGED_EVALUATION_EVIDENCE_2026-08-07.md)
+- [CAAI Public Overview 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CAAI_PUBLIC_OVERVIEW_2026.md)
+- [Current Engineering State — 27 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-27.md)
+- [Retained-State Selection Commercial / Evaluation Index](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/00_RETAINED_STATE_SELECTION_COMMERCIAL_INDEX.md)
 
 ---
 
@@ -44,6 +50,32 @@ These are part of the project history. They should be interpreted under the evid
 
 ---
 
+## Current reusable test direction
+
+The useful part of the older test-kit idea survives as a stricter public benchmark question:
+
+> **With present state and the candidate set held sufficiently matched, does changing declared retained history produce a repeatable, measurable and intervention-sensitive change in later selection?**
+
+Current benchmark proposal:
+
+- [Retained-State Selection Benchmark v0.1](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/RETAINED_STATE_SELECTION_BENCHMARK_v0.1.md)
+
+The benchmark separates:
+
+- persistence;
+- matched-state divergence;
+- directional structure;
+- held-out prediction;
+- intervention/ablation;
+- continuity integrity;
+- governance/authority;
+- replay/evidence;
+- robustness/transfer.
+
+This is a stronger current test route than reading early symbolic dashboard behaviour as broad scientific confirmation.
+
+---
+
 ## Evidence boundary
 
 This repository does **not** establish:
@@ -56,7 +88,7 @@ This repository does **not** establish:
 - independent validation of Verrell’s Law as a general scientific law;
 - production performance of the current CAAI system.
 
-A software test deliberately built to apply a retained-state or symbolic weighting rule is primarily an engineering conformance test unless the relevant causal variable is measured independently under a preregistered empirical design.
+A software test deliberately built to apply a retained-state or symbolic weighting rule is primarily an **engineering conformance test** unless the relevant causal variable is measured independently under a preregistered empirical design.
 
 For the current Verrell’s Law falsification framework, use:
 
@@ -66,19 +98,19 @@ For the current Verrell’s Law falsification framework, use:
 
 ## Current CAAI position
 
-The current private CAAI line now includes, under controlled local managed evaluation:
+The current CAAI public-safe programme distinguishes:
 
-- retained-state lifecycle management;
-- continuity memory and anchors;
-- deterministic session boot;
-- explicit memory-use evidence;
-- bounded ambiguity and corrective recall;
-- live selection through the real frozen Core Gold/Crown selector;
-- durable private and customer-safe Decision Records;
-- replay, restart, duplicate protection and reconciliation;
-- customer-safe evidence export.
+### Core Gold
 
-This repository remains online because the older experiments are useful provenance, but they are no longer the best representation of what CAAI is or how it should be evaluated commercially.
+Frozen commercial selector foundation for host-supplied permitted candidate selection, retained-state influence, reference/governed comparison, persistence/replay and managed evaluation/evidence in the accepted lineage.
+
+### Evolution 2
+
+Richer continuity engineering branch including structured ContinuityFrame interpretation, bounded retrieval, Open Loops/Reopen Semantics, Interaction Fit, suppression, confidence/change controls and Agent Self-History.
+
+Evolution 2 remains an **Engineering build rather than a finished Production release**.
+
+This historical test kit remains online because the older experiments are useful provenance, but they are no longer the best representation of what CAAI is or how it should be evaluated commercially.
 
 ---
 
@@ -86,9 +118,9 @@ This repository remains online because the older experiments are useful provenan
 
 CAAI is proprietary middleware developed by Inappropriate Media Limited, trading as Collapse Aware AI.
 
-This historical test kit is not an open-source release of the current Crown runtime, Phase-2 stack or managed-evaluation package.
+This historical test kit is not an open-source release of the current Crown runtime, managed-evaluation package or Evolution 2 implementation.
 
-For paid evaluations, pilots or licensing:
+For paid audits, evaluations, pilots or licensing:
 
 **collapseawareai@gmail.com**
 
