@@ -122,7 +122,7 @@ This historical test kit is not an open-source release of the current Crown runt
 
 For paid audits, evaluations, pilots or licensing:
 
-**collapseawareai@gmail.com**
+[hello@verrellslaw.org](mailto:hello@verrellslaw.org)
 
 ---
 
